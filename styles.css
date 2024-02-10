@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  border: 1px solid red;
+  display: flex;
+}
+
+img {
+  height: 100%;
+}
