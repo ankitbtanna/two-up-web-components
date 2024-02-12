@@ -1,0 +1,24 @@
+#demo {
+  height: 700px;
+  width: 300px;
+  border: 1px solid red;
+  overflow-y: auto;
+}
+
+img {
+  width: 100%;
+}
+
+scroll-shadow {
+  --scroll-shadow-size: 200;
+  --scroll-shadow-top: radial-gradient(
+    farthest-side at 50% 0%,
+    rgb(15, 153, 0.3),
+    rgba(255, 251, 0, 0.3)
+  );
+  --scroll-shadow-bottom: radial-gradient(
+    farthest-side at 50% 100%,
+    #9036,
+    #9030
+  );
+}
