@@ -14,3 +14,8 @@ label {
   font-family: inherit;
   color: inherit;
 }
+
+example-element {
+  --font-family: "Courier New", Courier, monospace;
+  --font-color: red;
+}
