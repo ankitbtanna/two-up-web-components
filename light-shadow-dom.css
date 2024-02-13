@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+}
+
+.pink {
+  background-color: inherit;
+  font-family: inherit;
+  color: inherit;
+}
+
+label {
+  font-family: inherit;
+  color: inherit;
+}
